@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="exponent">Exponent</string>
+    <string name="power">Power</string>
+    <string name="log">Log</string>
+    <string name="ceiling">Ceiling</string>
+    <string name="floor">Floor</string>
+    <string name="log_10">Log 10</string>
+    <string name="sin">Sin</string>
+    <string name="cos">Cos</string>
+    <string name="tan">Tan</string>
+    <string name="x">√x</string>
+    <string name="round">Round</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_3">3</string>
+    <string name="_0">0</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="dec">.</string>
+    <string name="rem">%</string>
+    <string name="subbutton">-</string>
+    <string name="divbutton">/</string>
+    <string name="dividebutton">X</string>
+    <string name="equalbutton">=</string>
+    <string name="plusbutton">+</string>
+    <string name="all_clear">All Clear</string>
+    <string name="one_clear">Clear One</string>
+
+
+</resources>
